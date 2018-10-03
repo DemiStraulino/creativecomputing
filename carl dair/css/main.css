@@ -1,0 +1,21 @@
+body{
+	font-family: 'K2D', sans-serif;
+	
+}
+
+
+#size{
+	font-size: 40px;
+}
+
+#weight{
+	transform-style: bold;
+}
+
+#form{
+	text-transform: uppercase;
+}
+
+#structure{
+	font-style: italic;
+}

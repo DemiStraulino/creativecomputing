@@ -1,0 +1,47 @@
+body{
+		background-image: url(https://media.mnn.com/assets/images/2017/10/honeybee-honeycomb-04.jpg.990x0_q80_crop-smart.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%;
+}
+
+p{
+	text-align: center;
+	font-family:"helvetica","Arial",sans-serif;
+	font-size:18px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 30px;
+	color: white;
+}
+
+
+a:link{
+	color:teal;
+}
+
+a:hover{
+	color: purple;
+}
+
+/*
+p{
+	color:green;
+	font-size: 30px;
+}
+
+h2{
+	color:blue;
+	font-size: 60px;
+}
+
+.small{
+	font-size: 15px;
+}
+
+#special{
+	font-weight: bold;
+}
+
+#first-paragraph{
+	font-style: italic;
+}*/
