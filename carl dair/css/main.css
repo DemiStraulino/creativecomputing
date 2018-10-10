@@ -1,21 +1,40 @@
 body{
-	font-family: 'K2D', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+	margin-left: 20%;
 	
 }
 
-
-#size{
-	font-size: 40px;
+h1, h2, h3, h4, h5{
+	color: #6262b2;
 }
 
-#weight{
-	transform-style: bold;
+h5{
+	line-height: 30px;
 }
 
-#form{
-	text-transform: uppercase;
+article{
+	width: 60%;
+	margin-top: 3%;
+	margin-left: 10%;
 }
 
-#structure{
-	font-style: italic;
+section{
+	border-top: 5px dotted #d7d7f7;
+}
+
+.firstcharacter{
+	float:left;
+	display: block;
+	width: 70px;
+	height: 80px;
+	font-size: 50px;
+	padding-right: 15px;
+	color:#6262b2;
+	text-align: center;
+}
+
+h4{
+	padding-top: 20px;
 }
